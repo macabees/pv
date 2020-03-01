@@ -18,4 +18,4 @@ Note: requires `docker login`
 ## Run image
 `$ docker run -it --rm macabees/pv`
 
-Note: This is only a demo that types some stuff on the screen.
+Note: This is only a demo script that types text on the screen.
