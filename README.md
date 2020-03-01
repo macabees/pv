@@ -1,5 +1,5 @@
 # PV
-The 'pv' command display the progress of data through a pipeline, displays data such as time elapsed, percentage completed.
+The 'pv' command displays the progress (e.g. time elapsed, percentage completed) of data through a pipeline.
 
 ## PV (Project Info)
 man pv
